@@ -8,6 +8,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import com.example.harpreet.peacocksolar.UtilsClasses.Form;
+
 
 public class HomeActivity extends AppCompatActivity {
     EditText email;
@@ -67,6 +69,7 @@ public class HomeActivity extends AppCompatActivity {
 
                 if(allow)
                 {
+                    Form form = new Form(mail_text,mobile_text,address_text,name_text);
                     Toast.makeText(HomeActivity.this, mail_text+"\n"+name_text+"\n"+address_text+"\n", Toast.LENGTH_SHORT).show();
                 }
                 else
