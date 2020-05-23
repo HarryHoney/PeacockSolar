@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "436185860515",
+    "firebase_url": "https://peacocksolar-d4f28.firebaseio.com",
+    "project_id": "peacocksolar-d4f28",
+    "storage_bucket": "peacocksolar-d4f28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436185860515:android:fd99cd98bf435496fdb216",
+        "android_client_info": {
+          "package_name": "com.example.harpreet.peacocksolar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436185860515-4s37mqola1njnbg57pm6p6i97d8v5kba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harpreet.peacocksolar",
+            "certificate_hash": "efe5b968f007b8dc01a5506429c27163a5424d55"
+          }
+        },
+        {
+          "client_id": "436185860515-e8i562aibn8d6mrmuqn9u6014t4kntul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTEWdZun5sNJActDnH7n2z20tnwHlbbNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436185860515-e8i562aibn8d6mrmuqn9u6014t4kntul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
